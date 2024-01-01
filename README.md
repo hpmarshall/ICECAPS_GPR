@@ -6,3 +6,5 @@ cilantro_ancho_logger_parse_RLH.m -- parses .log file for single channel (no cil
 e_snowdry.m -- calculates dielectric constant of dry snow as a function of density, frequency, temperature   
 f_DAC2Volt.m -- convert the DAC counts to a voltage   
 filter_bandpass.m -- butterworth filter   
+
+python/ -- folder of code translated from MATLAB to python by Von
